@@ -1,0 +1,110 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": "$25",
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/vChHzDTp/1.jpg",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": "$30",
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/xqvcPkc2/2.webp",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Pet Winter Photography",
+    "providerName": "FurFrame Studio",
+    "providerEmail": "studio@furframe.com",
+    "price": "$40",
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Capture your pets in adorable winter outfits with a cozy themed photo session.",
+    "image": "https://i.ibb.co.com/Ld5k6kbw/hero3.jpg",
+    "category": "Photography"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Snow Walk Training for Pets",
+    "providerName": "ActivePaws Academy",
+    "providerEmail": "train@activepaws.com",
+    "price": "$35",
+    "rating": 4.6,
+    "slotsAvailable": 6,
+    "description": "Teach your pets to stay calm and active during cold outdoor walks with expert trainers.",
+    "image": "https://i.ibb.co.com/1JT0TM66/4.webp",
+    "category": "Training"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Heated Blanket Rentals",
+    "providerName": "WarmNest Rentals",
+    "providerEmail": "service@warmnest.com",
+    "price": "$15",
+    "rating": 4.8,
+    "slotsAvailable": 8,
+    "description": "Rent premium-quality heated blankets designed specifically for cats and dogs during winter.",
+    "image": "https://i.ibb.co.com/gMDHV698/5.jpg",
+    "category": "Comfort"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Nutritional Winter Meal Plan",
+    "providerName": "PetBite Nutrition",
+    "providerEmail": "support@petbite.com",
+    "price": "$28",
+    "rating": 4.9,
+    "slotsAvailable": 7,
+    "description": "Customized meal plans to boost your pet’s immunity and energy during the cold season.",
+    "image": "https://i.ibb.co.com/60szMN8w/6.jpg",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 7,
+    "serviceName": "Pet Winter Spa & Massage",
+    "providerName": "ChillTails Spa",
+    "providerEmail": "care@chilltails.com",
+    "price": "$45",
+    "rating": 4.9,
+    "slotsAvailable": 4,
+    "description": "Relaxing spa and massage therapy to relieve winter stiffness and dryness for your pets.",
+    "image": "https://i.ibb.co.com/xKTv5cxX/7.jpg",
+    "category": "Spa"
+  },
+  {
+    "serviceId": 8,
+    "serviceName": "Cozy Cabin Boarding",
+    "providerName": "SnowyHaven Resort",
+    "providerEmail": "stay@snowyhaven.com",
+    "price": "$50",
+    "rating": 4.7,
+    "slotsAvailable": 5,
+    "description": "Warm and secure pet boarding cabins equipped with heated beds and daily playtime.",
+    "image": "https://i.ibb.co.com/XZZ6B550/8.jpg",
+    "category": "Boarding"
+  },
+  {
+    "serviceId": 9,
+    "serviceName": "Winter Health Checkup",
+    "providerName": "VetCare Clinic",
+    "providerEmail": "contact@vetcare.com",
+    "price": "$38",
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Comprehensive winter wellness checkup including fur care, immunity test, and temperature control advice.",
+    "image": "https://i.ibb.co.com/JW2M05Pz/9.jpg",
+    "category": "Health"
+  }
+]
