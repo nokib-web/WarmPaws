@@ -34,7 +34,8 @@ const Navbar = () => {
 
     const links = <>
         <NavLink className='text-semibold text-gray-600 ml-4' to='/'><li>  Home</li></NavLink>
-        <NavLink className='text-semibold text-gray-600 ml-4' to='/services'><li>Services</li></NavLink>
+        <NavLink className='text-semibold text-gray-600 ml-4' to='/all-services'><li> All Services</li></NavLink>
+        <NavLink className='text-semibold text-gray-600 ml-4' to='/about'><li>About Us</li></NavLink>
         {
             user && <NavLink className='text-semibold text-gray-600 ml-4' to='/profile'><li>My Profile</li></NavLink>
         }

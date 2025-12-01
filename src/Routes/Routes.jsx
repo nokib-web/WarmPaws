@@ -1,7 +1,6 @@
 import { createBrowserRouter } from "react-router";
 import Root from "../Root/Root";
 import Home from "../Pages/Home/Home";
-import Services from "../Pages/Services/Services";
 import Profile from "../Pages/Profile/Profile";
 import Details from "../Pages/Details/Details";
 import BookNow from "../Pages/Details/BookNow";
@@ -11,6 +10,8 @@ import PrivateRoutes from "../provider/PrivateRoute";
 import ErrorPage from "../Pages/ErrorPage/ErrorPage";
 import LoadingSpinner from "../Pages/Loading/LoadingSpinner";
 import ForgetPassword from "../Pages/Login/ForgetPassword";
+import AllServices from "../Pages/AllServices/AllServices";
+import About from "../Pages/About/About";
 
 
 
@@ -23,11 +24,11 @@ const router = createBrowserRouter([
             {
                 index: true,
                 Component: Home,
-                loader: () => fetch('/services.json'),
+                
             },
             {
-                path: '/services',
-                Component: Services,
+                path: '/about',
+                Component: About,
             },
             {
                 path: '/profile',
@@ -59,6 +60,11 @@ const router = createBrowserRouter([
                 path: '/forget-password',
                 Component: ForgetPassword,
             },
+            {
+                path:'/all-services',
+                Component: AllServices,
+                loader: () => fetch('/services.json'),
+            }
 
         ]
     }
